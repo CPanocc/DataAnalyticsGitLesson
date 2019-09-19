@@ -1,2 +1,2 @@
 # DataAnalyticsGitLesson
-Repository for the quick git lesson.
+This is the repository for the git lesson given at Mines.
